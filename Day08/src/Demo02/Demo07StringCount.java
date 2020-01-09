@@ -28,7 +28,7 @@ public class Demo07StringCount {
         char[] charArray = input.toCharArray();
         for (int i = 0; i < charArray.length; i++) {
             char ch = charArray[i];
-
+            System.out.println(ch);
         }
 
     }
